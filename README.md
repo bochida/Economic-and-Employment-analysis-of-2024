@@ -17,10 +17,11 @@ Data is available from the [Bureau of National Statistics of Kazakhstan](https:/
 - Employment distribution across **economic sectors**
 - Gender differences in employment rates  
 
-### 2️⃣ Unemployment Insights
-- Unemployment by **age group**
-- Duration of unemployment by **age** and **education**
-- Primary causes of job loss or job search challenges  
+### 2️⃣ Industry and Sector Participation
+- What is Employed population of across different employment types
+- How does employment vary between urban and rural areas?
+- What is the overall gender distribution in employment?
+- Status and education affect on emplyment type
 
 ### 3️⃣ Wage & Work-Time Patterns
 - Wage gaps by **employment type**
@@ -53,6 +54,21 @@ Install project dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+## Visuals & Graphs 
+
+Some examples of visual representation
+
+![alt text](image-3.png)
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+
 
 🚀 Project Status
 

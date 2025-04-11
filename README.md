@@ -55,6 +55,7 @@ pip install -r requirements.txt
 ```
 
 🚀 Project Status
+
 ✅ Data collected and cleaned
 
 ✅ Core labor market analysis completed

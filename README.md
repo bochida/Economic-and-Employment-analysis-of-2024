@@ -1,48 +1,80 @@
-﻿📌 Project Overview<br />
-
-Project Analyzing Kazakhstan’s Economic &amp; Employment Data for 2024 IV Quarter.<br /> With tools Excel, Python, SQL, Power BI i will provide detailed analysis. The project explores key job market trends in Kazakhstan, analyzing employment, unemployment, salaries and other metrics. 
-
+﻿📌 Kazakhstan Labor Market Analysis (Q4 2024)
+This project provides a comprehensive analysis of Kazakhstan’s labor market using data from the 4th quarter of 2024. Leveraging tools like Python, Pandas, Matplotlib, Seaborn, and Power BI, we examine employment trends, unemployment dynamics, wage disparities, and regional labor variations. The insights aim to highlight key socio-economic patterns influencing the labor force in Kazakhstan.
 📂 Data Sources
+The data is publicly available from the Bureau of National Statistics of Kazakhstan (stat.gov.kz). It includes detailed economic and employment information, segmented by region, gender, age, and economic activity.
 
-The large dataset provided by https://stat.gov.kz/ divided by multiple sections that we can use in analyzing special insights more accuratly and select each data for each task. 
+Key Tables Used:
+Labor force participation by age group
 
-Key tables that for this project:<br />
+Employed population by status and age
 
-1.Population by labor force participation status and age<br />
-2.Employed population<br />
-3.Employed population by employment status and age<br />
-4.Main indicators of the labor market of the Republic of Kazakhstan in Q4 2024<br />
-5.Regional labor trends<br />
-6.Income inequality & wages<br />
+Main labor market indicators (Q4 2024)
 
-📊 Key Analyses<br />
+Unemployment rates and characteristics
 
-1️⃣ Labor Force & Employment Trends<br />
-✔ Workforce participation rates by age & education<br />
-✔ Employment distribution by economic activity<br />
-✔ Gender-based employment differences<br />
+Regional labor force statistics
 
-2️⃣ Unemployment Insights<br />
+Income, wage levels, and inequality
 
-✔ Unemployment rates across age groups<br />
-✔ Duration of job search by age & education<br />
-✔ Main reasons for unemployment<br />
+📊 Key Analyses
+1️⃣ Labor Force & Employment Structure
+Workforce participation by age and education level
 
-3️⃣ Work time Analysis<br />
+Employment distribution across economic sectors
 
-✔ Wage gaps between different employment types<br />
-✔ Formal vs. informal employment wage differences<br />
-✔ Regional income disparities<br />
+Gender differences in employment rates
 
-4️⃣ Regional Disparities in Employment<br />
+2️⃣ Unemployment Insights
+Unemployment by age group
 
-✔ Comparison of employment & unemployment rates across regions<br />
-✔ Identification of regions with highest labor force participation<br />
-✔ Telecommuting workforce trends<br />
+Duration of unemployment by age and education
 
-🛠️ Tools & Technologies<br />
+Primary causes of job loss or job search challenges
 
-Python (Pandas, Matplotlib, Seaborn, Plotly) for data analysis<br />
-Power BI for data visualization and dashboard creation<br />
-GitHub for project version control<br />
+3️⃣ Wage & Work-Time Patterns
+Wage gaps by employment type
 
+Formal vs informal sector wage differences
+
+Income inequality and regional wage distribution
+
+4️⃣ Regional Labor Market Trends
+Employment and unemployment rates by region
+
+Identification of high-participation and low-participation regions
+
+Early signs of remote/telecommuting trends in the labor market
+
+🛠️ Tools & Technologies
+Tool	Purpose
+Python	Data cleaning, transformation, analysis
+pandas, matplotlib, seaborn, plotly	Data wrangling & visualization
+Jupyter Notebook	Interactive exploratory analysis
+Power BI	Dashboards and high-level reporting
+Git & GitHub	Version control and collaboration
+
+
+✅ Requirements
+Install project dependencies using:
+
+bash
+Копировать
+Редактировать
+pip install -r requirements.txt
+Contents of requirements.txt:
+
+ini
+Копировать
+Редактировать
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.21.0
+jupyter==1.0.0
+
+
+🚀 Project Status
+✅ Data collected and cleaned
+✅ Core labor market analysis completed
+🟡 Visual dashboards in progress (Power BI)
+🔜 Exporting insights and report compilation

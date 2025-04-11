@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 Some examples of visual representation
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ![alt text](image.png)
 

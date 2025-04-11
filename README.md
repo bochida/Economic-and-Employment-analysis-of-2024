@@ -52,7 +52,7 @@ Install project dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 🚀 Project Status
 ✅ Data collected and cleaned
